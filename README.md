@@ -4,7 +4,7 @@ This repository contians the code and the data for the relation extraction work.
 
 Running the code
 ========================================
-The code can be run in Google Colab with GPU runtime.
+The code can be run with pytorch and CUDA enabled.
 
  .sent and .pointer files: The .sent files contain the sentences and the corresponding locations of entities and triples.
 
